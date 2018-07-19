@@ -1,0 +1,44 @@
+.App {
+  
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  background-image: url('big_heard.jpg');
+  background-size: cover;
+  background-position: center center;
+  height: 400px;
+  padding: 150px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 1.8em;
+  font-weight: 700;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-intro .container {
+  padding: 20px;
+  margin-top: -60px;
+  background-color: #ffffff;
+}
+
+.Border-bottom {
+  border: none;
+  border-bottom: 2px;
+}
+
+.Scroll-box{
+  height: 400px;
+  overflow-y: auto;
+}
